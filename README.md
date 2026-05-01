@@ -40,6 +40,3 @@ python weather_requests.py
   * HTTP requests with Python
   * API integration
   * JSON data handling
-
-```
-```
