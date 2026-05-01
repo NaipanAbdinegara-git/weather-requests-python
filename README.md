@@ -28,6 +28,3 @@ This project is mainly for learning purposes, focusing on:
 * Making HTTP requests with Python
 * Handling JSON responses
 * Working with simple weather data
-
-```
-```
