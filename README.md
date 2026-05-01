@@ -21,10 +21,25 @@ python weather_requests.py
 └── weather_requests_v2.py
 ```
 
+## ⚙️ Features
+
+* **weather_requests.py (v1)**
+  Uses the Open-Meteo ecosystem fully for fetching weather data.
+
+* **weather_requests_v2.py (v2)**
+  Uses Nominatim (for location search) combined with Open-Meteo for more flexible queries.
+
+* **weather.csv**
+  Stores all retrieved weather data from the scripts.
+
 ## 📌 Notes
 
-This project is mainly for learning purposes, focusing on:
+* You can customize what data to fetch by modifying the code.
+* This project is mainly for learning purposes, focusing on:
 
-* Making HTTP requests with Python
-* Handling JSON responses
-* Working with simple weather data
+  * HTTP requests with Python
+  * API integration
+  * JSON data handling
+
+```
+```
