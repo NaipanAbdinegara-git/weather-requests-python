@@ -15,7 +15,6 @@ python weather_requests.py
 ## 📁 Project Structure
 
 ```
-.
 ├── weather.csv
 ├── weather_requests.py
 └── weather_requests_v2.py
@@ -36,7 +35,6 @@ python weather_requests.py
 
 * You can customize what data to fetch by modifying the code.
 * This project is mainly for learning purposes, focusing on:
-
   * HTTP requests with Python
   * API integration
   * JSON data handling
