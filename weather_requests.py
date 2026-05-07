@@ -68,6 +68,9 @@ while True:
     except KeyboardInterrupt:
         print("\nProgram stopped.")
         break
+    except EOFError:
+        print("\nProgram stopped.")
+        break
     except OSError:
         print("Unable to write an output to weather.csv")
     except requests.exceptions.RequestException as e:
